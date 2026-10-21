@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=https://vestibularpresencial.unisanta.br/login
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+IDList=
+URL=https://vestibularpresencial.unisanta.br/login
+IconFile=C:\Program Files\Google\Chrome\Application\chrome.exe
+IconIndex=0
+HotKey=0
